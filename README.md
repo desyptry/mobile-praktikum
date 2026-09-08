@@ -23,3 +23,15 @@ Aplikasi latihan untuk belajar git
 Nama panggilan / akun GitHub: desyptry
 ## Status
 Proyek awal perkuliahan.
+## Tujuan Aplikasi
+Aplikasi ini dibuat untuk belajar Flutter dan Git.
+
+## Rencana Fitur
+1. Menampilkan counter.
+2. Menyimpan data dengan SharedPreferences.
+3. Fitur reset counter.
+
+## Cara Menjalankan
+1. Pastikan Flutter terinstal.
+2. Buka terminal di folder proyek.
+3. Jalankan:
