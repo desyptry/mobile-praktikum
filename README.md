@@ -34,4 +34,5 @@ Aplikasi ini dibuat untuk belajar Flutter dan Git.
 ## Cara Menjalankan
 1. Pastikan Flutter terinstal.
 2. Buka terminal di folder proyek.
-3. Jalankan:
+3. Jalankan `flutter pub get`
+2. Jalankan `flutter run`
